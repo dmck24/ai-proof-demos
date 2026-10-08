@@ -43,3 +43,7 @@ pip install -r requirements.txt
 
 ## License
 MIT — see `LICENSE`. Use, run, and adapt freely.
+
+## AI-assisted maintenance
+
+See [AGENTS.md](AGENTS.md) for session startup confirmation and the Brain/Hands workflow with outside Oracle review of the plan and final results.
